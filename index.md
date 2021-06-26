@@ -5,5 +5,19 @@ Hello world
 - qazn  
 - Japan
 
+## Skills
+- OS
+- Languages
+- Engine,Frameworks
+- Tool,MiddleWare
+- 資格、免許
+
+## Works 
+-GitHub(https://github.com/qazn)
+
+## Contact
+
+## History
+
 ### URL  
-[N予備校](https://nnn.ed.nico)
+[このページのリンク](https://qazn.github.io/)
