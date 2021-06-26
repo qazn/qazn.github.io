@@ -13,7 +13,7 @@ Hello world
 - 資格、免許
 
 ## Works 
--GitHub(https://github.com/qazn)
+-[GitHub](https://github.com/qazn)
 
 ## Contact
 
